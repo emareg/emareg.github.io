@@ -1,0 +1,11 @@
+@inproceedings{smart2_charger,
+  author    = {Alma Pröbstl, Philipp Kindt, Emanuel Regnath, Samarjit Chakraborty},
+  title     = {Smart2: Smart Charging for Smart Phones}, 
+  booktitle = {IEEE 21st International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)}, 
+  year      = {2015}, 
+  month     = {Aug},
+  pages     = {41--50},
+  doi       = {10.1109/RTCSA.2015.21}, 
+  ISSN      = {2325-1271},
+  url       = {https://emanuel.regnath.info/publications/2015-Smart2_Charger.pdf},
+}

@@ -1,0 +1,13 @@
+@inproceedings{spark_glider,
+  author    = {Martin Becker and Emanuel Regnath and Samarjit Chakraborty},
+  title     = {Development and Verification of a Flight Stack for a High-Altitude Glider in Ada/SPARK 2014},
+  booktitle = {36th International Conference on Computer Safety, Reliability and Security (SAFECOMP)},
+  location  = {Trento, Italy},
+  year      = {2017},
+  month     = {September},
+  day       = {12},
+  pages     = {105--116},
+  doi       = {},
+  isbn      = {978-3-319-66266-4},
+  url       = {https://emanuel.regnath.info/pdf/2017-Spark_Glider.pdf},
+}

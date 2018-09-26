@@ -1,0 +1,13 @@
+@inproceedings{leapchain,
+  author    = {Emanuel Regnath and Sebastian Steinhorst},
+  title     = {LeapChain: Efficient Blockchain Verification for Embedded IoT},
+  booktitle = {Proceedings of the 2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
+  location  = {San Diego, CA, USA},
+  year      = {2018},
+  month     = {November},
+  day       = {5},
+  pages     = {},
+  doi       = {10.1145/3240765.3240820},
+  isbn      = {978-1-4503-5950-4},
+  url       = {https://emanuel.regnath.info/pdf/2018-LeapChain.pdf},
+}

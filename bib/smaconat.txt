@@ -1,0 +1,13 @@
+@inproceedings{smaconat,
+  author    = {Emanuel Regnath and Sebastian Steinhorst},
+  title     = {SmaCoNat: Smart Contracts in Natural Language},
+  booktitle = {2018 Forum on specification and Design Languages (FDL)},
+  location  = {Munich, Germany},
+  year      = {2018},
+  month     = {September},
+  day       = {12},
+  pages     = {},
+  doi       = {},
+  isbn      = {978-1-5386-6418-6},
+  url       = {https://emanuel.regnath.info/publications/2018-SmaCoNat.pdf},
+}
