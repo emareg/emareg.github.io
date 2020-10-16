@@ -1,0 +1,11 @@
+@inproceedings{amsa2020,
+  author    = {Emanuel Regnath and Sebastian Steinhorst},
+  title     = {AMSA: Adaptive Merkle Signature Architecture},
+  booktitle = {Proceedings of the Conference on Design, Automation and Test in Europe (DATE 2020)},
+  location  = {Grenoble, France},
+  year      = {2020},
+  month     = {March},
+  day       = {09},
+  doi       = {10.23919/DATE48585.2020.9116517},
+  url       = {https://emanuel.regnath.info/pdf/2020-AMSA_Hash_Signatures.pdf},
+}
