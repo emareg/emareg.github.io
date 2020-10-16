@@ -1,0 +1,11 @@
+@inproceedings{bcsync2020,
+  author    = {Emanuel Regnath and Nitin Shivaraman and Shanker Shreejith and Arvind Easwaran and Sebastian Steinhorst},
+  title     = {{Blockchain, what time is it? Trustless Datetime Synchronization for IoT}},
+  booktitle = {IEEE International Conference on Omni-layer Intelligent Systems (COINS 2020)},
+  location  = {Barcelona, Spain},
+  year      = {2020},
+  month     = {September},
+  day       = {1},
+  doi       = {},
+  url       = {https://emanuel.regnath.info/pdf/2020-Blockchain_Datetime_Synchronization.pdf},
+}

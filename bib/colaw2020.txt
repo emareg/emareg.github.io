@@ -1,0 +1,11 @@
+@inproceedings{colaw2020,
+  author    = {Philippos Barabas and Emanuel Regnath and Sebastian Steinhorst},
+  title     = {{COLAW: Cooperative Location Proof Architecture for VANETs based on Witnessing}},
+  booktitle = {IEEE International Conference on Omni-layer Intelligent Systems (COINS 2020)},
+  location  = {Barcelona, Spain},
+  year      = {2020},
+  month     = {September},
+  day       = {1},
+  doi       = {},
+  url       = {https://emanuel.regnath.info/pdf/2020-Cooperative_Location_Proofs.pdf},
+}
