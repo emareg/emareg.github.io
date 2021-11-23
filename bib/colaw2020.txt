@@ -6,6 +6,6 @@
   year      = {2020},
   month     = {September},
   day       = {1},
-  doi       = {},
+  doi       = {10.1109/COINS49042.2020.9191402},
   url       = {https://emanuel.regnath.info/pdf/2020-Cooperative_Location_Proofs.pdf},
 }
